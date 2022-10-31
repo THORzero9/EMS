@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ExaminationManagementSystem.vb", "ExaminationManagementSystem.vb\ExaminationManagementSystem.vb.vbproj", "{19DE86D5-1E76-4D1A-A2BB-48EBCD8BACB2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EMS Setup", "EMS Setup\EMS Setup.vdproj", "{5B6AD731-9916-4218-B76F-7DBDA08A9C68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19DE86D5-1E76-4D1A-A2BB-48EBCD8BACB2}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{19DE86D5-1E76-4D1A-A2BB-48EBCD8BACB2}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{19DE86D5-1E76-4D1A-A2BB-48EBCD8BACB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DE86D5-1E76-4D1A-A2BB-48EBCD8BACB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6AD731-9916-4218-B76F-7DBDA08A9C68}.Debug|Any CPU.ActiveCfg = Release
+		{5B6AD731-9916-4218-B76F-7DBDA08A9C68}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {150B6005-7505-44C5-97B1-044F30BAF758}
+	EndGlobalSection
+EndGlobal
